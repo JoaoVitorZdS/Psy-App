@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842737096452",
+    "project_id": "safespace-9c0d5",
+    "storage_bucket": "safespace-9c0d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842737096452:android:038448f33136a6c2cfe251",
+        "android_client_info": {
+          "package_name": "com.SafeSpace.zenit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPqnahlNklZMofLV4aKb84Aj4IuLfB56Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

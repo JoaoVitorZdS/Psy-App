@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Help Me",
+    "slug": "safespace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./FrontEnd/Assets/LogoHelpMe.jpeg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./FrontEnd/Assets/LogoHelpMe.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F1D4D6"
+      
+    },
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./FrontEnd/Assets/LogoHelpMe.jpeg",
+        "backgroundColor": "#F1D4D6"
+      },
+      "package": "com.joaovitor1001.MercadoAppBackend"
+    },
+    "web": {
+      "favicon": "./FrontEnd/Assets/LogoHelpMe.png"
+    }
+  }
+}
