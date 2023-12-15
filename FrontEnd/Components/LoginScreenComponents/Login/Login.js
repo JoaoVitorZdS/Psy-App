@@ -20,7 +20,7 @@ import {
   where,
 } from "firebase/firestore";
 import { Toast } from "react-native-toast-message/lib/src/Toast";
-
+import "expo-dev-client";
 const PlaceholderImage = require("../../../Assets/LogoHelpMe.png");
 
 export const Login = () => {

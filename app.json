@@ -1,18 +1,16 @@
 {
   "expo": {
-    "name": "Help Me",
+    "name": "SafeSpace",
     "slug": "safespace",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./FrontEnd/Assets/LogoHelpMe.jpeg",
+    "icon": "./FrontEnd/Assets/LogoHelpMe.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./FrontEnd/Assets/LogoHelpMe.png",
       "resizeMode": "contain",
       "backgroundColor": "#F1D4D6"
-      
     },
-    
     "assetBundlePatterns": [
       "**/*"
     ],
@@ -21,13 +19,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./FrontEnd/Assets/LogoHelpMe.jpeg",
+        "foregroundImage": "./FrontEnd/Assets/LogoHelpMe.png",
         "backgroundColor": "#F1D4D6"
       },
-      "package": "com.joaovitor1001.MercadoAppBackend"
+      "package": "com.SafeSpace.zenit"
     },
     "web": {
       "favicon": "./FrontEnd/Assets/LogoHelpMe.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7b461753-3900-4d3d-9422-588252d06231"
+      }
     }
   }
 }
